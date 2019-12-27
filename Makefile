@@ -2,7 +2,7 @@
 
 .DEFAULT_GOAL := help
 
-MSG 			?= "generic commit message"
+MSG 			?= generic commit message
 PROJECT_SLUG	:= mites_detection
 
 define BROWSER_PYSCRIPT
